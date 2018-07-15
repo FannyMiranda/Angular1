@@ -1,0 +1,26 @@
+.navbar a {
+    color: white;
+}
+
+.footer-item {
+    background-color: #343a40;
+    background-size: 100%;
+    color: white;
+}
+
+h4 {
+    color: aliceblue;
+}
+
+body {
+    background-color: rgba(62, 55, 63, 0.187);
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+a {
+    color: white;
+}
